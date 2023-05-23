@@ -30,7 +30,7 @@ PMAK-
 sk.eyJ1Ijoi
 .firebaseio.com
 .firebaseapp.com
-"service_account"
+service_account
 glpat-
 glptt-
 GR1348941
@@ -57,6 +57,7 @@ api_key
 jdbc
 azure
 tenancy
+gh_token
 private_key
 client_email
 project_id
