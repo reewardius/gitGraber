@@ -34,6 +34,8 @@ sk.eyJ1Ijoi
 glpat-
 glptt-
 GR1348941
+access_key_secret
+access_key_id
 aws.session
 aws.session.token
 aws.token
@@ -53,3 +55,10 @@ api-key
 api_key
 .env
 jdbc
+azure
+tenancy
+private_key
+client_email
+project_id
+client_secret
+tenant_id
