@@ -28,7 +28,6 @@ ssh-dsa
 ssh-ed25519
 PMAK-
 sk.eyJ1Ijoi
-npm_
 .firebaseio.com
 .firebaseapp.com
 "service_account"
@@ -44,3 +43,13 @@ AROA
 AIPA
 ANPA
 ANVA
+password
+token
+api_token
+secret
+pass
+pwd
+api-key
+api_key
+.env
+jdbc
