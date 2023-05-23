@@ -1,0 +1,46 @@
+ghp_
+github_pat_
+ghu_
+ghs_
+gho_
+ghr_
+https://hooks.slack.com/services/T
+xoxb-
+xoxa-
+xoxp-
+xoxr-
+xoxs-
+stripe
+sk_live
+rk_live
+shpat_
+shppa_
+shpss_
+pypi-AgEIcHlwaS5vcmc
+BEGIN OPENSSH PRIVATE KEY
+BEGIN PRIVATE KEY
+BEGIN RSA PRIVATE KEY
+BEGIN DSA PRIVATE KEY
+BEGIN EC PRIVATE KEY
+BEGIN PGP PRIVATE KEY BLOCK
+ssh-rsa
+ssh-dsa
+ssh-ed25519
+PMAK-
+sk.eyJ1Ijoi
+npm_
+.firebaseio.com
+.firebaseapp.com
+"service_account"
+glpat-
+glptt-
+GR1348941
+aws.session
+aws.session.token
+aws.token
+AKIA
+AGPA
+AROA
+AIPA
+ANPA
+ANVA
